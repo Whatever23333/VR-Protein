@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try Protein 5.7", "Try Protein 5.7.csproj", "{BA09A3C6-45AD-FE8D-81F9-24128FFCC6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try Protein 5.7.Editor", "Try Protein 5.7.Editor.csproj", "{1B2D4064-9A9C-250D-8BCE-D7E4F393B613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA09A3C6-45AD-FE8D-81F9-24128FFCC6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA09A3C6-45AD-FE8D-81F9-24128FFCC6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA09A3C6-45AD-FE8D-81F9-24128FFCC6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA09A3C6-45AD-FE8D-81F9-24128FFCC6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2D4064-9A9C-250D-8BCE-D7E4F393B613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2D4064-9A9C-250D-8BCE-D7E4F393B613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2D4064-9A9C-250D-8BCE-D7E4F393B613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2D4064-9A9C-250D-8BCE-D7E4F393B613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
